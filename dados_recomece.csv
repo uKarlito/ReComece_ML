@@ -1,0 +1,1001 @@
+idade,tempo_desemprego,renda_familiar,matematica,arte,comunicacao,nivel_tec,trilha_recomendada
+44,20,5308,1,1,0,2,Desenvolvimento Full Stack
+31,6,13359,1,1,0,1,Desenvolvimento Full Stack
+35,20,12357,1,1,0,5,Data Science
+30,21,2114,1,0,1,4,Data Science
+26,4,12328,1,1,1,4,Data Science
+37,8,10210,1,0,1,5,Data Science
+21,23,4611,1,1,0,4,Data Science
+42,18,3754,0,0,1,2,Marketing Digital
+35,12,9565,0,1,1,3,Design UX/UI
+30,10,10846,0,1,1,3,Design UX/UI
+34,10,13498,0,0,0,4,Desenvolvimento Full Stack
+42,2,14846,1,0,0,5,Data Science
+34,11,11920,0,1,1,5,Design UX/UI
+43,0,4916,0,1,1,4,Design UX/UI
+44,14,14126,1,0,1,3,Marketing Digital
+40,19,10858,1,0,1,3,Marketing Digital
+34,2,7676,0,0,1,3,Marketing Digital
+54,18,10420,1,1,1,4,Data Science
+43,17,1563,1,0,1,3,Marketing Digital
+46,9,10706,0,0,0,4,Desenvolvimento Full Stack
+47,18,13472,0,1,1,5,Design UX/UI
+28,22,10281,0,1,1,3,Design UX/UI
+18,23,14410,0,1,0,1,Desenvolvimento Full Stack
+23,7,2345,0,1,1,5,Design UX/UI
+23,21,5906,0,1,0,4,Design UX/UI
+22,5,6758,1,1,1,5,Data Science
+50,1,5467,1,0,1,4,Data Science
+26,16,1599,1,0,0,4,Data Science
+53,12,5420,0,1,1,3,Design UX/UI
+31,20,12889,1,1,1,2,Marketing Digital
+48,16,14712,0,0,0,2,Desenvolvimento Full Stack
+29,21,14017,1,0,0,1,Desenvolvimento Full Stack
+22,9,6974,0,0,1,3,Marketing Digital
+45,4,12624,0,0,0,5,Desenvolvimento Full Stack
+25,5,4844,1,1,1,5,Data Science
+46,16,9636,1,0,0,2,Desenvolvimento Full Stack
+45,20,12705,1,0,1,5,Data Science
+45,15,3511,1,1,0,3,Design UX/UI
+19,23,8974,1,0,0,3,Desenvolvimento Full Stack
+50,4,9948,0,1,0,2,Desenvolvimento Full Stack
+42,12,2668,0,1,1,3,Design UX/UI
+54,7,2524,1,1,1,1,Marketing Digital
+19,3,2915,1,0,0,2,Desenvolvimento Full Stack
+41,3,11941,1,1,1,5,Data Science
+36,14,11152,1,1,0,2,Desenvolvimento Full Stack
+20,4,14554,1,1,1,3,Design UX/UI
+43,5,10211,0,1,0,1,Desenvolvimento Full Stack
+32,13,3249,1,1,1,1,Marketing Digital
+32,20,13871,0,1,0,3,Design UX/UI
+32,13,13443,1,0,1,1,Marketing Digital
+47,11,13417,1,1,0,2,Desenvolvimento Full Stack
+44,12,11179,1,0,0,1,Desenvolvimento Full Stack
+34,24,7730,1,0,0,1,Desenvolvimento Full Stack
+31,18,4724,0,0,0,5,Desenvolvimento Full Stack
+38,14,2551,1,0,0,4,Data Science
+45,21,1658,0,0,0,3,Desenvolvimento Full Stack
+26,6,13859,1,0,1,3,Marketing Digital
+37,24,4871,0,1,1,4,Design UX/UI
+24,12,6469,1,1,1,4,Data Science
+54,9,2001,0,1,0,3,Design UX/UI
+54,6,3350,0,0,0,3,Desenvolvimento Full Stack
+54,3,12076,0,0,0,3,Desenvolvimento Full Stack
+47,3,3215,1,1,0,3,Design UX/UI
+48,16,9812,1,1,1,1,Marketing Digital
+27,12,1703,1,1,1,2,Marketing Digital
+53,22,1848,1,1,1,2,Marketing Digital
+49,6,6275,1,0,1,3,Marketing Digital
+37,8,14714,1,0,1,3,Marketing Digital
+25,16,1701,1,1,1,4,Data Science
+23,10,2951,1,0,1,4,Data Science
+23,2,12570,1,0,0,3,Desenvolvimento Full Stack
+42,12,10511,1,0,0,4,Data Science
+47,1,13880,0,1,1,4,Design UX/UI
+26,10,5378,1,1,1,2,Marketing Digital
+53,3,10324,1,1,1,5,Data Science
+25,11,11262,0,0,1,1,Marketing Digital
+30,16,1607,1,1,0,3,Design UX/UI
+50,18,13950,0,1,0,2,Desenvolvimento Full Stack
+20,4,14829,1,1,1,3,Design UX/UI
+35,2,12966,1,0,0,2,Desenvolvimento Full Stack
+31,1,9273,1,0,1,1,Marketing Digital
+29,15,3242,0,0,1,4,Marketing Digital
+18,6,10202,1,1,1,1,Marketing Digital
+27,3,9704,0,1,1,4,Design UX/UI
+49,21,8978,0,0,1,5,Marketing Digital
+46,9,11510,0,0,1,5,Marketing Digital
+34,0,10971,0,0,1,3,Marketing Digital
+26,13,3529,1,1,0,3,Design UX/UI
+49,21,6977,1,1,0,4,Data Science
+55,23,12363,1,1,1,4,Data Science
+33,4,11935,1,1,0,4,Data Science
+40,9,2637,0,1,0,2,Desenvolvimento Full Stack
+55,11,6169,1,1,1,1,Marketing Digital
+19,4,11633,1,0,0,5,Data Science
+46,18,10249,1,1,1,2,Marketing Digital
+43,15,11800,1,0,1,3,Marketing Digital
+43,20,14808,0,0,1,5,Marketing Digital
+32,17,5568,1,1,0,4,Data Science
+19,17,10707,1,0,1,2,Marketing Digital
+28,19,11936,1,0,0,4,Data Science
+54,24,10404,0,1,0,1,Desenvolvimento Full Stack
+54,1,11078,1,1,1,2,Marketing Digital
+24,3,3232,0,1,1,5,Design UX/UI
+44,16,14759,1,0,0,5,Data Science
+40,7,5147,1,1,0,2,Desenvolvimento Full Stack
+38,4,8334,1,1,1,4,Data Science
+50,14,7990,1,1,0,2,Desenvolvimento Full Stack
+18,5,9050,0,1,1,1,Marketing Digital
+44,8,13112,1,0,1,5,Data Science
+27,16,11356,1,1,1,1,Marketing Digital
+37,21,14997,1,0,1,1,Marketing Digital
+44,18,14008,1,0,0,4,Data Science
+40,14,13944,0,0,1,4,Marketing Digital
+52,9,8505,0,1,1,5,Design UX/UI
+50,19,12241,1,0,1,3,Marketing Digital
+44,0,14593,0,0,1,3,Marketing Digital
+52,16,12154,1,0,1,3,Marketing Digital
+34,2,6248,0,1,0,1,Desenvolvimento Full Stack
+20,5,3051,1,0,0,4,Data Science
+32,5,12953,1,1,0,2,Desenvolvimento Full Stack
+30,10,3166,1,0,1,2,Marketing Digital
+23,6,11633,1,0,0,2,Desenvolvimento Full Stack
+28,22,11209,1,1,0,5,Data Science
+42,22,8338,1,0,0,2,Desenvolvimento Full Stack
+47,17,4324,1,1,0,1,Desenvolvimento Full Stack
+24,16,6335,0,1,0,3,Design UX/UI
+47,21,12869,0,1,0,5,Design UX/UI
+34,7,6016,1,0,0,4,Data Science
+21,21,4941,1,1,0,3,Design UX/UI
+46,0,10125,0,1,0,3,Design UX/UI
+43,7,5021,1,1,1,5,Data Science
+47,20,8261,1,1,1,4,Data Science
+23,23,10321,1,0,1,1,Marketing Digital
+29,10,12643,0,1,0,3,Design UX/UI
+33,7,7945,1,0,1,2,Marketing Digital
+29,6,5017,1,0,0,3,Desenvolvimento Full Stack
+28,7,3791,0,1,1,3,Design UX/UI
+30,19,12489,0,0,0,5,Desenvolvimento Full Stack
+45,12,13482,1,0,0,5,Data Science
+39,14,3449,1,0,0,1,Desenvolvimento Full Stack
+55,16,12897,1,1,0,1,Desenvolvimento Full Stack
+42,5,6233,0,1,0,4,Design UX/UI
+29,20,7452,0,1,1,1,Marketing Digital
+32,11,4207,0,1,1,4,Design UX/UI
+43,21,10680,0,0,0,3,Desenvolvimento Full Stack
+21,20,8900,1,0,1,1,Marketing Digital
+30,19,3113,1,1,1,2,Marketing Digital
+41,1,5498,0,0,0,4,Desenvolvimento Full Stack
+44,3,11199,0,0,0,3,Desenvolvimento Full Stack
+29,16,4538,1,0,0,4,Data Science
+51,21,12326,1,0,1,4,Data Science
+38,6,2501,1,0,1,1,Marketing Digital
+50,24,4417,0,0,0,5,Desenvolvimento Full Stack
+26,9,3832,0,0,1,1,Marketing Digital
+26,4,7133,0,0,0,2,Desenvolvimento Full Stack
+32,22,3735,0,0,0,5,Desenvolvimento Full Stack
+40,4,8267,1,0,0,2,Desenvolvimento Full Stack
+33,24,7355,1,0,0,4,Data Science
+55,12,10649,0,0,1,4,Marketing Digital
+30,2,14592,0,0,0,4,Desenvolvimento Full Stack
+31,8,2867,0,1,0,5,Design UX/UI
+30,21,5446,1,0,0,2,Desenvolvimento Full Stack
+18,24,7398,0,1,1,5,Design UX/UI
+37,18,6416,1,1,0,2,Desenvolvimento Full Stack
+34,22,10997,0,1,0,5,Design UX/UI
+54,13,13833,0,1,0,4,Design UX/UI
+51,16,14834,1,0,1,5,Data Science
+20,12,14498,0,1,1,4,Design UX/UI
+25,1,14712,0,0,0,5,Desenvolvimento Full Stack
+53,4,13710,1,0,1,3,Marketing Digital
+34,6,1716,0,0,0,4,Desenvolvimento Full Stack
+19,20,4178,1,1,1,1,Marketing Digital
+28,21,3193,0,0,0,3,Desenvolvimento Full Stack
+50,7,2937,1,0,0,3,Desenvolvimento Full Stack
+50,8,11689,0,0,0,4,Desenvolvimento Full Stack
+43,8,4940,1,0,0,3,Desenvolvimento Full Stack
+25,4,14397,0,0,1,3,Marketing Digital
+22,2,1712,0,0,0,4,Desenvolvimento Full Stack
+39,15,12118,0,1,0,2,Desenvolvimento Full Stack
+18,8,10320,1,0,0,2,Desenvolvimento Full Stack
+31,12,10600,1,1,1,2,Marketing Digital
+19,14,11261,0,1,0,5,Design UX/UI
+24,16,12265,1,1,0,5,Data Science
+55,21,2132,1,0,0,2,Desenvolvimento Full Stack
+55,13,13849,0,0,0,1,Desenvolvimento Full Stack
+51,1,3186,1,0,0,4,Data Science
+25,21,9702,0,0,1,1,Marketing Digital
+24,18,11385,1,1,1,1,Marketing Digital
+43,10,1796,0,0,0,3,Desenvolvimento Full Stack
+33,11,10551,0,0,0,2,Desenvolvimento Full Stack
+29,11,10919,0,0,0,5,Desenvolvimento Full Stack
+37,6,11186,0,1,1,5,Design UX/UI
+35,9,12605,0,1,0,4,Design UX/UI
+50,10,3519,1,1,1,5,Data Science
+27,12,11500,0,0,1,1,Marketing Digital
+29,20,14937,1,0,1,5,Data Science
+30,0,3783,0,0,0,4,Desenvolvimento Full Stack
+28,20,3636,0,1,0,4,Design UX/UI
+27,17,9358,1,1,1,5,Data Science
+51,7,6426,1,1,0,3,Design UX/UI
+40,23,1846,1,1,0,5,Data Science
+38,13,7921,0,0,1,2,Marketing Digital
+45,15,6186,0,1,1,5,Design UX/UI
+35,15,6156,0,0,0,4,Desenvolvimento Full Stack
+35,5,5257,0,1,1,2,Marketing Digital
+51,18,11180,0,1,0,3,Design UX/UI
+52,5,8845,1,1,1,2,Marketing Digital
+40,13,4086,0,1,1,2,Marketing Digital
+20,9,1918,0,1,1,4,Design UX/UI
+52,23,5229,0,1,1,4,Design UX/UI
+49,2,12927,0,0,0,4,Desenvolvimento Full Stack
+34,12,12884,0,0,1,2,Marketing Digital
+33,2,4414,0,0,1,1,Marketing Digital
+25,19,7951,0,1,1,2,Marketing Digital
+23,21,9843,0,0,0,3,Desenvolvimento Full Stack
+52,12,13760,1,1,0,5,Data Science
+55,17,2263,0,0,1,3,Marketing Digital
+37,19,6254,0,0,0,2,Desenvolvimento Full Stack
+29,22,7493,0,0,0,4,Desenvolvimento Full Stack
+46,5,6159,1,0,1,1,Marketing Digital
+23,12,13938,1,1,0,2,Desenvolvimento Full Stack
+19,2,2016,0,1,0,1,Desenvolvimento Full Stack
+27,20,14176,0,1,1,1,Marketing Digital
+18,14,11709,0,0,0,5,Desenvolvimento Full Stack
+41,17,6097,1,1,0,1,Desenvolvimento Full Stack
+37,14,6706,1,1,0,3,Design UX/UI
+45,18,14404,1,1,1,3,Design UX/UI
+29,17,7027,0,1,1,3,Design UX/UI
+37,12,5592,1,0,1,3,Marketing Digital
+41,9,2653,1,0,1,1,Marketing Digital
+33,20,2268,0,1,1,5,Design UX/UI
+31,22,6463,1,1,0,4,Data Science
+49,23,7505,1,1,1,1,Marketing Digital
+24,6,6793,0,0,0,4,Desenvolvimento Full Stack
+38,4,10624,1,1,1,4,Data Science
+49,7,11796,1,1,1,1,Marketing Digital
+39,21,7502,0,0,0,1,Desenvolvimento Full Stack
+21,13,11865,0,1,0,5,Design UX/UI
+28,7,13651,0,0,1,5,Marketing Digital
+47,12,5027,1,0,1,4,Data Science
+28,3,14380,0,0,0,4,Desenvolvimento Full Stack
+26,24,13012,0,1,1,4,Design UX/UI
+21,14,13733,0,1,1,1,Marketing Digital
+54,2,4958,1,0,0,3,Desenvolvimento Full Stack
+20,6,7082,1,1,1,4,Data Science
+51,12,2589,1,1,0,3,Design UX/UI
+54,15,3226,1,1,0,2,Desenvolvimento Full Stack
+37,15,2947,0,0,1,4,Marketing Digital
+55,11,4619,1,0,0,1,Desenvolvimento Full Stack
+53,9,2701,0,1,1,5,Design UX/UI
+40,5,9119,1,1,0,2,Desenvolvimento Full Stack
+25,15,4000,1,1,0,2,Desenvolvimento Full Stack
+47,3,9903,1,1,1,4,Data Science
+22,22,10065,1,1,0,3,Design UX/UI
+31,3,10131,0,0,0,1,Desenvolvimento Full Stack
+43,3,7387,1,1,1,1,Marketing Digital
+52,12,9229,0,1,0,5,Design UX/UI
+29,6,4299,0,0,1,5,Marketing Digital
+22,7,11581,1,1,1,5,Data Science
+53,14,4371,1,0,1,2,Marketing Digital
+19,1,11885,0,0,1,3,Marketing Digital
+20,16,11744,0,1,1,4,Design UX/UI
+54,21,6150,1,0,1,1,Marketing Digital
+21,9,13000,1,1,0,4,Data Science
+31,9,9976,1,1,0,4,Data Science
+36,13,12008,0,0,0,3,Desenvolvimento Full Stack
+39,8,14673,1,1,0,1,Desenvolvimento Full Stack
+54,0,8122,1,0,1,1,Marketing Digital
+46,6,4766,1,0,1,1,Marketing Digital
+40,2,5956,0,0,1,2,Marketing Digital
+34,1,6525,1,0,1,4,Data Science
+26,16,10162,1,1,1,3,Design UX/UI
+54,19,3382,0,0,0,5,Desenvolvimento Full Stack
+35,20,14945,1,1,0,1,Desenvolvimento Full Stack
+19,9,1896,0,1,1,1,Marketing Digital
+42,11,11041,1,1,0,2,Desenvolvimento Full Stack
+34,5,13843,0,0,0,4,Desenvolvimento Full Stack
+38,16,1822,1,0,0,5,Data Science
+48,7,9576,1,1,1,1,Marketing Digital
+36,7,7478,0,0,1,5,Marketing Digital
+22,9,3162,0,0,0,1,Desenvolvimento Full Stack
+49,21,2764,1,0,1,3,Marketing Digital
+43,24,9833,0,1,0,4,Design UX/UI
+55,10,9640,0,0,1,3,Marketing Digital
+22,14,9502,0,1,0,4,Design UX/UI
+33,4,14656,1,0,0,5,Data Science
+39,16,10771,0,0,0,1,Desenvolvimento Full Stack
+54,19,7304,0,1,0,2,Desenvolvimento Full Stack
+35,20,2778,0,1,1,4,Design UX/UI
+47,23,4142,0,0,0,5,Desenvolvimento Full Stack
+55,2,11999,0,0,0,1,Desenvolvimento Full Stack
+27,23,10125,0,0,0,2,Desenvolvimento Full Stack
+34,7,11980,0,0,1,2,Marketing Digital
+53,14,6995,0,0,0,5,Desenvolvimento Full Stack
+36,6,6266,0,0,1,5,Marketing Digital
+50,13,13889,0,1,1,4,Design UX/UI
+51,12,3694,0,0,0,4,Desenvolvimento Full Stack
+41,7,7743,1,0,1,4,Data Science
+50,22,7011,0,0,0,2,Desenvolvimento Full Stack
+47,24,2952,0,0,1,4,Marketing Digital
+24,0,5832,0,1,1,2,Marketing Digital
+35,23,3520,1,0,1,2,Marketing Digital
+27,1,5867,0,1,0,1,Desenvolvimento Full Stack
+30,4,10904,0,0,1,3,Marketing Digital
+51,10,4816,0,1,0,1,Desenvolvimento Full Stack
+55,6,2676,1,1,0,5,Data Science
+34,17,5678,0,0,1,1,Marketing Digital
+22,24,2356,1,0,1,2,Marketing Digital
+42,22,2889,1,0,0,1,Desenvolvimento Full Stack
+48,1,14653,1,0,0,4,Data Science
+27,16,13556,1,0,1,5,Data Science
+24,3,11649,0,0,1,4,Marketing Digital
+39,18,12098,1,1,0,4,Data Science
+25,15,9912,1,0,1,2,Marketing Digital
+47,12,14624,1,1,0,3,Design UX/UI
+52,11,11218,0,0,0,4,Desenvolvimento Full Stack
+45,4,5060,0,1,1,3,Design UX/UI
+29,13,13120,1,1,0,2,Desenvolvimento Full Stack
+51,4,7168,1,0,0,5,Data Science
+41,24,6996,0,0,1,5,Marketing Digital
+32,21,4415,1,1,0,3,Design UX/UI
+32,15,4782,0,0,0,4,Desenvolvimento Full Stack
+39,6,5198,1,1,1,4,Data Science
+24,13,9056,0,0,0,4,Desenvolvimento Full Stack
+25,21,9808,0,0,0,5,Desenvolvimento Full Stack
+25,2,8221,0,0,1,3,Marketing Digital
+40,14,4214,1,0,0,3,Desenvolvimento Full Stack
+53,6,2769,0,0,1,3,Marketing Digital
+18,0,4035,0,0,0,2,Desenvolvimento Full Stack
+44,4,7504,0,0,1,1,Marketing Digital
+55,3,4393,0,0,1,3,Marketing Digital
+24,3,13730,1,1,1,3,Design UX/UI
+27,18,10824,1,0,0,5,Data Science
+34,19,5134,1,0,1,1,Marketing Digital
+45,21,6327,1,1,1,1,Marketing Digital
+38,14,5327,0,0,0,5,Desenvolvimento Full Stack
+19,15,4216,1,1,1,4,Data Science
+29,15,5226,1,0,1,5,Data Science
+24,19,4001,0,0,0,5,Desenvolvimento Full Stack
+51,10,4267,0,0,1,2,Marketing Digital
+50,22,5062,0,0,1,4,Marketing Digital
+25,19,4446,0,1,1,2,Marketing Digital
+47,14,13793,0,0,1,5,Marketing Digital
+34,2,6922,0,1,0,4,Design UX/UI
+34,13,13956,0,1,1,3,Design UX/UI
+38,20,10497,0,0,0,1,Desenvolvimento Full Stack
+51,15,5274,1,1,0,3,Design UX/UI
+41,12,7341,0,1,1,5,Design UX/UI
+40,6,10697,1,1,0,2,Desenvolvimento Full Stack
+37,11,1758,0,0,1,2,Marketing Digital
+18,4,13367,1,0,1,3,Marketing Digital
+34,10,12453,1,1,0,1,Desenvolvimento Full Stack
+25,22,13712,0,0,1,2,Marketing Digital
+43,19,4928,0,1,0,3,Design UX/UI
+27,23,7708,1,0,0,2,Desenvolvimento Full Stack
+40,1,4210,0,1,1,3,Design UX/UI
+49,9,5530,1,0,1,4,Data Science
+36,23,12172,0,0,0,1,Desenvolvimento Full Stack
+31,2,14365,1,1,0,2,Desenvolvimento Full Stack
+20,6,7145,0,0,1,5,Marketing Digital
+22,7,8344,0,0,1,4,Marketing Digital
+36,0,2460,1,0,0,2,Desenvolvimento Full Stack
+47,4,1689,0,0,0,3,Desenvolvimento Full Stack
+37,21,10751,1,0,0,4,Data Science
+19,15,1937,1,1,1,2,Marketing Digital
+47,0,11025,0,0,0,3,Desenvolvimento Full Stack
+40,9,3277,1,1,1,3,Design UX/UI
+40,11,11741,0,1,1,1,Marketing Digital
+33,19,10479,0,1,0,4,Design UX/UI
+50,12,6301,0,1,0,1,Desenvolvimento Full Stack
+31,19,1885,1,1,1,5,Data Science
+18,23,13590,1,0,0,2,Desenvolvimento Full Stack
+44,10,10550,1,1,1,5,Data Science
+41,17,9997,0,1,0,1,Desenvolvimento Full Stack
+20,12,11467,0,1,0,1,Desenvolvimento Full Stack
+31,4,8943,0,0,0,3,Desenvolvimento Full Stack
+49,15,10721,1,1,1,5,Data Science
+45,20,14711,1,0,1,4,Data Science
+50,12,6360,1,1,0,5,Data Science
+50,4,5753,1,1,0,2,Desenvolvimento Full Stack
+25,0,12998,0,0,0,1,Desenvolvimento Full Stack
+33,17,3744,0,1,0,5,Design UX/UI
+32,13,13913,0,1,1,4,Design UX/UI
+23,10,11685,1,1,0,2,Desenvolvimento Full Stack
+52,6,13905,0,0,1,4,Marketing Digital
+54,6,13379,0,0,0,4,Desenvolvimento Full Stack
+45,24,6904,1,0,1,4,Data Science
+47,3,13601,0,1,1,2,Marketing Digital
+37,3,2811,1,0,0,5,Data Science
+52,12,9512,0,0,0,1,Desenvolvimento Full Stack
+18,6,6549,1,0,1,1,Marketing Digital
+21,9,3783,0,1,0,1,Desenvolvimento Full Stack
+37,17,3366,0,1,0,1,Desenvolvimento Full Stack
+49,21,3647,1,0,0,5,Data Science
+31,20,3532,1,1,1,3,Design UX/UI
+35,19,8863,0,0,1,3,Marketing Digital
+39,12,3347,0,0,1,2,Marketing Digital
+42,20,1706,1,0,1,3,Marketing Digital
+42,23,8038,0,1,1,3,Design UX/UI
+19,9,14336,0,1,1,3,Design UX/UI
+39,16,5289,0,0,1,1,Marketing Digital
+42,23,4337,0,1,1,1,Marketing Digital
+37,15,3150,0,1,0,5,Design UX/UI
+19,1,12393,1,0,0,2,Desenvolvimento Full Stack
+33,21,1619,0,0,1,3,Marketing Digital
+33,19,11781,1,1,1,4,Data Science
+19,18,13021,0,0,0,2,Desenvolvimento Full Stack
+37,10,14828,1,0,1,4,Data Science
+54,13,3295,0,1,1,2,Marketing Digital
+40,1,13488,0,0,1,2,Marketing Digital
+43,4,10712,1,1,1,3,Design UX/UI
+23,18,3756,0,0,0,1,Desenvolvimento Full Stack
+20,10,11185,0,0,0,5,Desenvolvimento Full Stack
+32,2,2335,1,1,1,4,Data Science
+45,11,7845,0,1,0,1,Desenvolvimento Full Stack
+33,16,11440,1,0,0,5,Data Science
+43,5,10080,0,0,1,1,Marketing Digital
+19,10,6853,0,1,1,5,Design UX/UI
+53,8,6432,1,1,1,1,Marketing Digital
+32,11,13401,1,0,1,3,Marketing Digital
+41,8,7570,1,0,0,4,Data Science
+33,9,4770,0,0,0,1,Desenvolvimento Full Stack
+48,13,2019,0,1,1,4,Design UX/UI
+50,16,9075,1,1,1,2,Marketing Digital
+53,20,13077,1,0,0,2,Desenvolvimento Full Stack
+36,10,13032,1,0,1,2,Marketing Digital
+29,3,11709,0,0,0,5,Desenvolvimento Full Stack
+19,1,10248,0,1,1,1,Marketing Digital
+37,11,4624,0,0,1,3,Marketing Digital
+32,19,13710,1,0,1,3,Marketing Digital
+23,22,8635,0,0,0,3,Desenvolvimento Full Stack
+43,19,12277,0,1,0,3,Design UX/UI
+48,18,13388,0,1,0,1,Desenvolvimento Full Stack
+29,10,9847,0,1,0,3,Design UX/UI
+36,17,12858,0,0,0,1,Desenvolvimento Full Stack
+51,6,5397,0,0,1,2,Marketing Digital
+43,12,3857,0,1,1,5,Design UX/UI
+20,1,14102,1,0,0,1,Desenvolvimento Full Stack
+32,13,7833,0,1,1,2,Marketing Digital
+38,20,11232,1,0,1,2,Marketing Digital
+51,2,13190,0,1,0,1,Desenvolvimento Full Stack
+24,10,7377,0,0,0,3,Desenvolvimento Full Stack
+45,0,6082,0,1,0,2,Desenvolvimento Full Stack
+39,5,7225,1,0,1,1,Marketing Digital
+52,11,3543,1,0,1,5,Data Science
+44,11,9558,1,0,0,4,Data Science
+50,14,14677,0,1,0,1,Desenvolvimento Full Stack
+34,21,12202,1,0,0,4,Data Science
+50,17,11161,1,0,1,2,Marketing Digital
+19,18,12773,0,1,1,1,Marketing Digital
+44,1,12349,0,0,0,4,Desenvolvimento Full Stack
+45,7,14052,1,1,1,5,Data Science
+44,24,3883,0,0,1,1,Marketing Digital
+32,10,6906,0,1,1,5,Design UX/UI
+25,6,11717,0,0,1,2,Marketing Digital
+21,14,14844,0,1,1,2,Marketing Digital
+47,9,4302,1,0,0,2,Desenvolvimento Full Stack
+37,11,7824,1,0,0,4,Data Science
+45,11,11061,0,0,1,2,Marketing Digital
+54,7,5478,1,0,1,1,Marketing Digital
+22,6,5398,0,0,0,4,Desenvolvimento Full Stack
+41,8,9329,0,1,1,2,Marketing Digital
+37,24,9424,1,0,0,5,Data Science
+18,23,13426,1,0,0,3,Desenvolvimento Full Stack
+42,14,11672,0,1,0,3,Design UX/UI
+21,14,7526,0,0,0,3,Desenvolvimento Full Stack
+32,5,7360,1,0,1,1,Marketing Digital
+53,15,2529,1,0,1,5,Data Science
+24,12,14048,1,0,0,1,Desenvolvimento Full Stack
+48,3,2961,0,1,0,1,Desenvolvimento Full Stack
+53,16,11884,0,0,1,4,Marketing Digital
+23,10,12629,1,1,1,4,Data Science
+54,5,7720,0,1,0,1,Desenvolvimento Full Stack
+45,9,6648,1,0,0,4,Data Science
+39,14,9766,0,1,1,2,Marketing Digital
+34,7,7171,1,1,0,4,Data Science
+28,10,10517,1,1,1,4,Data Science
+36,21,14323,1,1,1,1,Marketing Digital
+51,16,1501,0,0,0,3,Desenvolvimento Full Stack
+42,17,12215,0,1,1,4,Design UX/UI
+51,24,14780,1,1,1,4,Data Science
+51,17,7572,1,1,0,2,Desenvolvimento Full Stack
+37,22,7037,1,1,1,4,Data Science
+24,6,8954,0,0,0,4,Desenvolvimento Full Stack
+48,21,11844,0,0,1,1,Marketing Digital
+22,5,3970,0,0,1,1,Marketing Digital
+32,18,6284,1,0,1,4,Data Science
+23,11,13844,0,0,0,3,Desenvolvimento Full Stack
+52,14,10820,0,1,0,1,Desenvolvimento Full Stack
+28,8,3672,0,1,1,3,Design UX/UI
+39,7,4446,0,1,1,5,Design UX/UI
+19,13,9411,0,1,1,2,Marketing Digital
+28,8,7101,1,0,1,1,Marketing Digital
+34,14,6558,1,0,1,5,Data Science
+35,16,6031,1,1,1,5,Data Science
+26,23,3691,0,0,0,4,Desenvolvimento Full Stack
+30,22,13738,1,0,1,1,Marketing Digital
+46,20,10867,1,0,1,4,Data Science
+20,20,13548,1,0,0,4,Data Science
+52,4,7324,1,0,1,1,Marketing Digital
+48,2,13920,1,1,1,3,Design UX/UI
+38,20,5701,1,1,0,5,Data Science
+31,16,3398,0,1,0,5,Design UX/UI
+34,9,7586,0,0,1,2,Marketing Digital
+46,0,10178,1,1,1,4,Data Science
+21,6,6793,1,0,0,5,Data Science
+26,10,6869,1,1,1,3,Design UX/UI
+37,24,13517,1,0,1,1,Marketing Digital
+52,20,4712,1,1,1,3,Design UX/UI
+27,23,13218,0,1,0,4,Design UX/UI
+22,2,6962,1,0,0,2,Desenvolvimento Full Stack
+33,24,2831,0,1,1,1,Marketing Digital
+23,16,6230,0,0,0,3,Desenvolvimento Full Stack
+30,6,5246,1,1,1,1,Marketing Digital
+45,14,2559,1,1,1,2,Marketing Digital
+29,6,3740,0,0,0,4,Desenvolvimento Full Stack
+51,9,4129,1,0,1,3,Marketing Digital
+23,9,6762,1,1,0,2,Desenvolvimento Full Stack
+24,7,9331,0,0,0,3,Desenvolvimento Full Stack
+44,21,6638,0,0,0,1,Desenvolvimento Full Stack
+18,24,10835,0,0,1,2,Marketing Digital
+48,6,9508,0,1,0,2,Desenvolvimento Full Stack
+29,5,10082,0,0,1,4,Marketing Digital
+18,9,11921,1,0,0,5,Data Science
+47,17,10639,1,1,1,4,Data Science
+25,18,3244,1,0,0,4,Data Science
+31,6,4708,1,0,0,3,Desenvolvimento Full Stack
+24,22,13406,1,0,0,5,Data Science
+45,18,4512,0,1,0,3,Design UX/UI
+26,16,7758,1,1,0,1,Desenvolvimento Full Stack
+54,17,8330,1,0,1,3,Marketing Digital
+48,23,6529,0,1,1,2,Marketing Digital
+48,20,10472,0,0,0,4,Desenvolvimento Full Stack
+45,23,10662,1,0,0,3,Desenvolvimento Full Stack
+25,12,9075,0,1,1,4,Design UX/UI
+42,22,6398,1,0,1,1,Marketing Digital
+31,21,6063,0,0,0,1,Desenvolvimento Full Stack
+28,6,14385,0,0,1,2,Marketing Digital
+47,10,3382,1,1,0,2,Desenvolvimento Full Stack
+35,4,9968,0,0,0,3,Desenvolvimento Full Stack
+49,2,14034,0,0,0,4,Desenvolvimento Full Stack
+46,3,11114,0,0,0,5,Desenvolvimento Full Stack
+49,14,11185,0,1,0,2,Desenvolvimento Full Stack
+28,22,12862,1,0,0,2,Desenvolvimento Full Stack
+44,13,8824,1,0,1,3,Marketing Digital
+24,9,2753,1,1,0,1,Desenvolvimento Full Stack
+48,8,6094,0,1,1,5,Design UX/UI
+31,5,9019,1,1,0,2,Desenvolvimento Full Stack
+32,7,5542,1,1,0,3,Design UX/UI
+45,3,13603,0,1,0,5,Design UX/UI
+33,12,6293,1,0,1,3,Marketing Digital
+32,24,2465,1,0,1,1,Marketing Digital
+35,8,1932,0,0,1,2,Marketing Digital
+33,8,2112,0,0,0,1,Desenvolvimento Full Stack
+43,21,6521,0,0,0,1,Desenvolvimento Full Stack
+43,3,11802,1,1,0,3,Design UX/UI
+19,13,9900,0,0,0,2,Desenvolvimento Full Stack
+43,19,2345,0,1,0,4,Design UX/UI
+43,0,8176,1,0,0,4,Data Science
+38,15,8645,1,0,0,1,Desenvolvimento Full Stack
+40,18,2529,0,1,1,4,Design UX/UI
+48,24,6086,1,1,0,4,Data Science
+54,1,2285,1,0,1,4,Data Science
+34,19,14979,1,0,1,4,Data Science
+18,20,13378,0,1,0,2,Desenvolvimento Full Stack
+52,4,9793,1,1,0,2,Desenvolvimento Full Stack
+20,19,7861,1,1,0,3,Design UX/UI
+41,9,12433,1,0,1,4,Data Science
+33,0,5609,0,1,0,1,Desenvolvimento Full Stack
+49,10,3306,1,1,1,2,Marketing Digital
+53,13,3091,1,0,0,1,Desenvolvimento Full Stack
+19,7,4092,0,1,1,2,Marketing Digital
+53,22,14521,1,1,1,1,Marketing Digital
+39,19,3593,1,1,1,3,Design UX/UI
+54,22,5443,1,0,0,2,Desenvolvimento Full Stack
+23,7,8840,0,0,0,3,Desenvolvimento Full Stack
+50,23,3760,1,1,0,4,Data Science
+23,21,8487,0,0,0,4,Desenvolvimento Full Stack
+27,11,9041,1,0,1,3,Marketing Digital
+20,11,8682,1,1,0,2,Desenvolvimento Full Stack
+37,21,10861,0,0,1,1,Marketing Digital
+45,23,3837,1,0,0,3,Desenvolvimento Full Stack
+49,20,6602,0,0,1,4,Marketing Digital
+32,12,5063,1,0,1,4,Data Science
+25,13,11660,1,0,1,1,Marketing Digital
+25,3,3326,0,0,0,1,Desenvolvimento Full Stack
+41,9,4065,0,0,0,2,Desenvolvimento Full Stack
+27,5,3859,1,1,0,4,Data Science
+25,4,2435,1,0,0,4,Data Science
+26,13,14651,1,0,1,4,Data Science
+38,8,10954,0,1,0,3,Design UX/UI
+21,20,10442,0,1,1,4,Design UX/UI
+39,10,4529,0,0,0,3,Desenvolvimento Full Stack
+22,19,8101,1,0,0,3,Desenvolvimento Full Stack
+28,12,3208,1,1,0,4,Data Science
+37,15,8007,0,0,0,3,Desenvolvimento Full Stack
+28,14,6097,0,1,0,5,Design UX/UI
+33,2,14266,1,1,0,2,Desenvolvimento Full Stack
+28,16,4932,1,1,1,3,Design UX/UI
+32,22,13639,1,0,1,1,Marketing Digital
+53,16,4932,0,1,0,5,Design UX/UI
+39,1,3247,1,1,1,2,Marketing Digital
+32,24,9269,0,1,0,4,Design UX/UI
+31,13,9328,0,1,1,3,Design UX/UI
+38,17,1576,0,1,0,5,Design UX/UI
+21,17,6618,0,0,1,5,Marketing Digital
+27,22,9409,1,0,0,3,Desenvolvimento Full Stack
+54,8,9184,1,0,1,4,Data Science
+24,15,14598,0,0,1,1,Marketing Digital
+21,13,11619,0,0,1,2,Marketing Digital
+43,3,13033,0,0,1,3,Marketing Digital
+18,22,1880,1,0,1,5,Data Science
+42,18,10459,0,1,1,1,Marketing Digital
+48,13,3176,1,1,1,1,Marketing Digital
+53,24,9470,1,0,0,3,Desenvolvimento Full Stack
+36,0,10445,0,1,1,1,Marketing Digital
+33,1,3308,1,0,0,4,Data Science
+34,2,11396,1,0,0,1,Desenvolvimento Full Stack
+49,17,8764,0,1,1,5,Design UX/UI
+33,12,1814,1,0,1,1,Marketing Digital
+52,18,7178,0,0,0,5,Desenvolvimento Full Stack
+43,12,8762,1,1,0,5,Data Science
+52,10,8540,1,0,0,5,Data Science
+54,22,3831,0,1,1,4,Design UX/UI
+27,12,8909,1,1,0,1,Desenvolvimento Full Stack
+50,10,13438,1,0,1,4,Data Science
+51,21,12129,0,0,0,1,Desenvolvimento Full Stack
+39,22,2314,0,1,1,3,Design UX/UI
+41,10,5714,0,0,0,2,Desenvolvimento Full Stack
+54,19,1712,1,1,1,4,Data Science
+50,22,3833,1,1,1,2,Marketing Digital
+33,24,14793,1,1,0,1,Desenvolvimento Full Stack
+46,24,7353,0,0,1,1,Marketing Digital
+55,11,11272,0,1,0,3,Design UX/UI
+35,2,13082,0,0,0,5,Desenvolvimento Full Stack
+54,14,6185,1,1,1,2,Marketing Digital
+36,22,5038,1,1,0,5,Data Science
+46,12,7342,1,1,0,5,Data Science
+21,21,9059,0,1,0,2,Desenvolvimento Full Stack
+21,7,4002,1,0,0,5,Data Science
+55,1,11177,0,0,0,3,Desenvolvimento Full Stack
+43,6,10603,0,0,0,5,Desenvolvimento Full Stack
+44,13,4732,0,0,1,3,Marketing Digital
+18,1,9804,0,0,0,4,Desenvolvimento Full Stack
+54,10,12659,1,1,0,5,Data Science
+43,14,13942,0,1,1,2,Marketing Digital
+53,7,2820,1,0,0,1,Desenvolvimento Full Stack
+18,0,6437,1,1,0,4,Data Science
+27,10,2624,0,0,0,5,Desenvolvimento Full Stack
+54,23,7027,1,0,1,5,Data Science
+50,21,10505,1,1,0,1,Desenvolvimento Full Stack
+22,3,9035,1,0,0,1,Desenvolvimento Full Stack
+28,5,6883,1,1,1,1,Marketing Digital
+40,6,8060,0,1,0,3,Design UX/UI
+28,24,12402,1,0,0,3,Desenvolvimento Full Stack
+44,8,14627,1,1,1,4,Data Science
+41,10,8146,1,1,1,5,Data Science
+38,2,6654,1,1,1,1,Marketing Digital
+33,7,1752,1,1,0,3,Design UX/UI
+49,16,8611,1,1,0,2,Desenvolvimento Full Stack
+40,3,9559,1,0,1,4,Data Science
+28,6,2241,0,1,0,3,Design UX/UI
+46,24,14703,1,0,0,3,Desenvolvimento Full Stack
+48,15,7063,1,1,0,4,Data Science
+51,17,7839,1,1,0,5,Data Science
+21,18,3717,1,0,1,5,Data Science
+44,19,4850,0,0,1,1,Marketing Digital
+44,9,13715,0,0,1,4,Marketing Digital
+29,11,14275,0,0,1,1,Marketing Digital
+32,8,10233,0,1,1,5,Design UX/UI
+24,19,6893,0,1,0,1,Desenvolvimento Full Stack
+23,2,12663,0,1,0,2,Desenvolvimento Full Stack
+39,23,14907,1,0,0,1,Desenvolvimento Full Stack
+22,8,5361,0,1,1,3,Design UX/UI
+22,14,11093,1,0,0,2,Desenvolvimento Full Stack
+28,22,10679,0,0,0,3,Desenvolvimento Full Stack
+35,2,11512,1,0,0,5,Data Science
+31,16,3043,1,1,0,4,Data Science
+47,24,2270,0,1,0,1,Desenvolvimento Full Stack
+39,22,6261,1,1,0,1,Desenvolvimento Full Stack
+52,18,6651,0,0,0,1,Desenvolvimento Full Stack
+54,22,11879,1,1,0,4,Data Science
+18,0,11064,1,1,0,1,Desenvolvimento Full Stack
+53,16,10919,1,1,0,1,Desenvolvimento Full Stack
+38,6,9164,1,1,0,3,Design UX/UI
+30,19,13323,1,1,0,1,Desenvolvimento Full Stack
+20,24,4159,0,0,1,1,Marketing Digital
+37,16,7748,1,0,1,5,Data Science
+38,3,4440,1,0,1,4,Data Science
+36,11,10028,0,0,1,4,Marketing Digital
+36,9,9878,0,1,1,1,Marketing Digital
+21,19,1736,0,1,1,3,Design UX/UI
+28,8,14893,0,1,0,4,Design UX/UI
+48,20,7214,1,0,0,4,Data Science
+48,10,14072,0,1,1,2,Marketing Digital
+29,15,10282,0,0,0,5,Desenvolvimento Full Stack
+27,24,3213,1,0,0,1,Desenvolvimento Full Stack
+32,19,2267,1,1,1,2,Marketing Digital
+31,4,14243,1,0,1,1,Marketing Digital
+23,5,3655,0,0,1,1,Marketing Digital
+25,16,11074,1,1,1,5,Data Science
+44,15,14626,1,1,0,3,Design UX/UI
+30,1,13386,1,0,1,2,Marketing Digital
+45,22,5484,0,1,0,2,Desenvolvimento Full Stack
+46,1,7558,0,1,0,1,Desenvolvimento Full Stack
+43,12,10987,1,0,1,3,Marketing Digital
+25,12,2383,0,1,0,4,Design UX/UI
+40,23,2700,1,0,1,2,Marketing Digital
+20,10,8605,1,1,1,1,Marketing Digital
+37,12,8726,0,0,0,1,Desenvolvimento Full Stack
+35,0,3711,1,0,1,5,Data Science
+28,11,6939,0,1,0,2,Desenvolvimento Full Stack
+29,18,3473,1,0,0,1,Desenvolvimento Full Stack
+33,13,13941,1,0,0,1,Desenvolvimento Full Stack
+51,2,10140,1,0,0,4,Data Science
+28,14,7476,0,1,1,1,Marketing Digital
+51,9,6779,0,1,0,4,Design UX/UI
+34,19,6262,1,0,1,5,Data Science
+48,12,8584,0,1,0,5,Design UX/UI
+32,8,2297,1,1,1,1,Marketing Digital
+48,0,2362,1,1,1,3,Design UX/UI
+41,2,2801,1,1,1,4,Data Science
+30,13,7424,1,1,0,5,Data Science
+24,0,8270,1,1,0,3,Design UX/UI
+54,4,13864,1,1,1,4,Data Science
+19,20,9188,0,1,0,4,Design UX/UI
+41,7,14706,0,0,1,3,Marketing Digital
+24,21,4119,0,1,1,3,Design UX/UI
+20,15,6465,1,1,0,3,Design UX/UI
+21,21,13729,1,1,0,5,Data Science
+25,3,3741,1,1,0,4,Data Science
+52,9,8675,0,1,1,4,Design UX/UI
+26,18,12195,0,0,1,2,Marketing Digital
+29,2,10916,1,0,0,5,Data Science
+44,2,7412,0,1,0,2,Desenvolvimento Full Stack
+33,0,14468,0,1,1,5,Design UX/UI
+54,17,13807,0,0,1,3,Marketing Digital
+48,2,12728,0,0,1,5,Marketing Digital
+33,12,12486,0,0,0,3,Desenvolvimento Full Stack
+34,1,11840,0,0,1,3,Marketing Digital
+24,11,6493,0,0,1,4,Marketing Digital
+26,4,4366,0,1,0,3,Design UX/UI
+52,9,7258,0,0,1,1,Marketing Digital
+25,17,9261,1,0,0,4,Data Science
+30,1,9908,0,0,0,2,Desenvolvimento Full Stack
+40,23,11919,1,0,1,1,Marketing Digital
+41,17,7072,1,0,0,5,Data Science
+45,14,11020,0,1,1,4,Design UX/UI
+45,1,10700,1,1,0,5,Data Science
+54,5,6987,1,1,0,1,Desenvolvimento Full Stack
+48,14,6602,0,1,0,3,Design UX/UI
+35,23,1556,1,1,0,4,Data Science
+48,12,8794,0,0,0,2,Desenvolvimento Full Stack
+27,3,4234,1,0,1,1,Marketing Digital
+51,12,9256,1,0,1,1,Marketing Digital
+53,8,5933,1,0,0,4,Data Science
+24,20,14544,1,0,1,1,Marketing Digital
+41,9,6707,1,0,0,1,Desenvolvimento Full Stack
+22,0,6909,0,1,0,1,Desenvolvimento Full Stack
+37,20,11367,0,1,1,4,Design UX/UI
+31,0,7655,1,0,0,2,Desenvolvimento Full Stack
+50,20,12957,1,1,0,1,Desenvolvimento Full Stack
+27,6,6730,1,1,1,2,Marketing Digital
+44,7,8602,0,0,1,1,Marketing Digital
+30,23,3926,1,1,0,3,Design UX/UI
+21,1,4972,1,0,1,5,Data Science
+47,21,11792,1,0,0,3,Desenvolvimento Full Stack
+46,18,8439,0,1,0,3,Design UX/UI
+20,24,5684,1,1,1,4,Data Science
+22,23,6572,1,0,1,5,Data Science
+50,14,2699,0,0,0,4,Desenvolvimento Full Stack
+46,16,9605,0,1,0,5,Design UX/UI
+30,16,4035,1,0,1,4,Data Science
+34,15,2228,0,1,1,2,Marketing Digital
+23,8,7942,1,0,1,3,Marketing Digital
+50,15,6395,0,1,1,4,Design UX/UI
+45,6,13864,0,1,0,1,Desenvolvimento Full Stack
+25,14,4504,0,0,0,2,Desenvolvimento Full Stack
+46,0,5817,0,0,0,3,Desenvolvimento Full Stack
+26,22,9886,0,1,0,5,Design UX/UI
+40,20,13202,1,1,0,5,Data Science
+22,4,4814,0,0,1,5,Marketing Digital
+43,0,8868,1,1,0,5,Data Science
+44,11,10002,1,0,1,4,Data Science
+47,9,14031,0,0,0,1,Desenvolvimento Full Stack
+35,24,1696,0,1,0,2,Desenvolvimento Full Stack
+44,21,12565,1,0,1,3,Marketing Digital
+35,21,13826,0,0,0,3,Desenvolvimento Full Stack
+18,1,11780,1,0,1,5,Data Science
+38,23,3557,0,1,1,5,Design UX/UI
+23,11,7020,1,1,1,2,Marketing Digital
+50,23,9584,0,1,0,4,Design UX/UI
+50,3,2827,1,0,0,5,Data Science
+55,10,11158,1,1,1,3,Design UX/UI
+25,24,14291,0,0,0,2,Desenvolvimento Full Stack
+20,5,11330,1,1,1,1,Marketing Digital
+48,2,1670,1,0,1,3,Marketing Digital
+21,16,4592,1,1,0,3,Design UX/UI
+29,2,5352,1,1,1,1,Marketing Digital
+43,14,11915,0,1,1,4,Design UX/UI
+27,5,1574,0,0,0,2,Desenvolvimento Full Stack
+26,5,3189,0,0,1,1,Marketing Digital
+41,9,2102,1,1,1,5,Data Science
+44,10,1580,0,1,0,5,Design UX/UI
+48,18,7705,0,0,0,1,Desenvolvimento Full Stack
+49,21,7875,1,0,0,4,Data Science
+20,12,12719,0,0,1,2,Marketing Digital
+18,13,11734,0,1,0,1,Desenvolvimento Full Stack
+19,17,8990,0,1,1,2,Marketing Digital
+29,12,9403,1,0,1,5,Data Science
+47,17,11540,0,1,1,2,Marketing Digital
+30,4,1805,1,0,0,3,Desenvolvimento Full Stack
+46,9,4625,0,0,1,5,Marketing Digital
+55,21,13019,0,0,1,3,Marketing Digital
+24,24,9189,0,1,1,5,Design UX/UI
+36,7,9080,1,0,0,5,Data Science
+31,8,10567,0,1,1,3,Design UX/UI
+29,11,9827,0,1,1,5,Design UX/UI
+20,21,3323,1,0,1,2,Marketing Digital
+50,12,8769,1,0,0,4,Data Science
+44,2,14566,0,0,0,5,Desenvolvimento Full Stack
+52,14,10421,0,1,1,1,Marketing Digital
+48,21,4467,0,1,1,4,Design UX/UI
+55,4,3997,1,1,1,2,Marketing Digital
+48,22,2047,0,0,0,2,Desenvolvimento Full Stack
+26,9,7150,1,1,0,4,Data Science
+46,19,4878,0,0,0,3,Desenvolvimento Full Stack
+22,16,8586,0,0,0,4,Desenvolvimento Full Stack
+48,17,3643,0,1,0,1,Desenvolvimento Full Stack
+44,3,13708,0,0,0,5,Desenvolvimento Full Stack
+26,5,8516,0,0,0,1,Desenvolvimento Full Stack
+51,19,5939,0,1,1,2,Marketing Digital
+37,24,6944,1,1,1,5,Data Science
+30,5,12081,1,1,0,5,Data Science
+44,12,14848,0,0,1,3,Marketing Digital
+24,13,2368,1,1,0,3,Design UX/UI
+47,17,7923,0,1,0,1,Desenvolvimento Full Stack
+47,6,10125,0,0,0,1,Desenvolvimento Full Stack
+42,2,10266,1,1,1,4,Data Science
+40,3,13843,1,1,0,4,Data Science
+29,3,11249,0,0,1,1,Marketing Digital
+50,4,8366,0,0,1,4,Marketing Digital
+20,21,5244,1,0,1,3,Marketing Digital
+47,1,2375,1,0,1,1,Marketing Digital
+47,10,5571,1,0,1,4,Data Science
+28,7,6228,1,1,0,2,Desenvolvimento Full Stack
+30,23,7581,0,0,0,3,Desenvolvimento Full Stack
+35,16,5539,0,0,0,3,Desenvolvimento Full Stack
+20,6,2390,0,0,0,2,Desenvolvimento Full Stack
+50,24,8326,0,0,1,2,Marketing Digital
+33,3,9900,0,1,0,5,Design UX/UI
+23,24,14778,1,1,1,1,Marketing Digital
+39,18,12541,0,0,1,2,Marketing Digital
+44,6,10741,1,1,0,2,Desenvolvimento Full Stack
+41,6,11965,0,1,0,3,Design UX/UI
+50,6,14176,0,0,1,2,Marketing Digital
+54,2,8151,0,1,1,5,Design UX/UI
+34,22,14526,1,1,1,1,Marketing Digital
+35,23,7729,1,0,1,1,Marketing Digital
+47,11,12374,1,1,0,4,Data Science
+46,22,1666,1,0,1,3,Marketing Digital
+32,20,1838,1,1,1,2,Marketing Digital
+35,5,5093,1,0,1,4,Data Science
+36,17,14007,1,1,1,4,Data Science
+50,23,10929,1,1,1,4,Data Science
+45,11,14409,0,1,0,2,Desenvolvimento Full Stack
+37,10,2930,0,0,1,2,Marketing Digital
+19,18,7488,0,1,1,2,Marketing Digital
+35,0,7391,0,0,0,4,Desenvolvimento Full Stack
+20,10,5961,1,0,0,2,Desenvolvimento Full Stack
+54,0,11849,0,0,0,2,Desenvolvimento Full Stack
+28,6,9342,1,0,0,4,Data Science
+52,14,4149,0,0,0,1,Desenvolvimento Full Stack
+33,12,12141,0,0,0,1,Desenvolvimento Full Stack
+37,17,9245,1,0,0,5,Data Science
+32,15,12490,0,0,1,4,Marketing Digital
+23,20,8852,0,1,1,1,Marketing Digital
+42,5,2814,1,0,0,3,Desenvolvimento Full Stack
+41,21,8423,0,1,1,4,Design UX/UI
+38,15,9293,0,0,0,4,Desenvolvimento Full Stack
+27,2,1834,0,1,0,5,Design UX/UI
+30,12,12904,0,1,0,5,Design UX/UI
+24,14,5955,0,0,0,4,Desenvolvimento Full Stack
+48,12,9094,0,1,0,1,Desenvolvimento Full Stack
+25,1,4359,1,1,1,4,Data Science
+22,18,3561,0,0,0,4,Desenvolvimento Full Stack
+24,11,7826,1,0,0,5,Data Science
+28,7,12486,1,1,1,4,Data Science
+53,19,12275,1,0,0,2,Desenvolvimento Full Stack
+31,4,6926,0,0,1,5,Marketing Digital
+38,24,2798,1,1,0,2,Desenvolvimento Full Stack
+21,16,5333,0,1,0,4,Design UX/UI
+30,19,8813,1,0,1,4,Data Science
+43,1,4362,1,0,0,1,Desenvolvimento Full Stack
+50,3,13670,0,1,0,5,Design UX/UI
+31,17,6329,1,1,1,3,Design UX/UI
+42,13,10459,1,0,1,1,Marketing Digital
+48,22,4603,1,0,1,3,Marketing Digital
+47,21,10357,1,1,1,2,Marketing Digital
+36,23,8238,1,0,1,3,Marketing Digital
+22,16,6471,0,1,1,5,Design UX/UI
+52,17,13358,0,1,0,2,Desenvolvimento Full Stack
+36,23,13255,1,1,1,1,Marketing Digital
+50,6,4830,1,1,1,3,Design UX/UI
+52,17,1858,0,0,0,1,Desenvolvimento Full Stack
+33,7,9293,0,0,1,1,Marketing Digital
+53,16,3328,1,0,0,3,Desenvolvimento Full Stack
+37,5,14193,1,0,0,5,Data Science
+41,5,10045,0,1,1,2,Marketing Digital
+30,8,8458,0,0,1,2,Marketing Digital
+49,22,8230,1,0,0,4,Data Science
+54,11,13412,0,1,1,5,Design UX/UI
+55,0,3886,1,0,1,2,Marketing Digital
+19,21,9690,0,1,0,3,Design UX/UI
+52,21,8897,1,1,1,2,Marketing Digital
+51,22,11131,1,1,0,2,Desenvolvimento Full Stack
+41,2,9046,1,0,0,4,Data Science
+22,4,6966,1,1,0,1,Desenvolvimento Full Stack
+48,11,7010,0,0,1,2,Marketing Digital
+42,13,7947,0,0,1,3,Marketing Digital
+55,22,2529,1,1,1,2,Marketing Digital
+37,2,5200,0,0,0,4,Desenvolvimento Full Stack
+34,15,6683,1,1,1,1,Marketing Digital
+21,7,6585,0,1,0,4,Design UX/UI
+52,17,5518,0,1,1,1,Marketing Digital
+31,13,11639,1,0,0,5,Data Science
+52,0,11960,0,1,1,2,Marketing Digital
+28,1,8294,0,0,0,5,Desenvolvimento Full Stack
+21,2,4480,1,1,0,4,Data Science
+24,24,6371,0,1,0,4,Design UX/UI
+53,10,9613,0,0,0,1,Desenvolvimento Full Stack
+39,24,11513,0,1,0,3,Design UX/UI
+46,3,14397,1,1,1,5,Data Science
+49,4,9132,1,0,1,3,Marketing Digital
+48,11,7457,0,1,1,5,Design UX/UI
+26,2,4219,1,1,0,3,Design UX/UI
+37,14,1761,1,1,0,4,Data Science
+47,19,14446,1,1,1,1,Marketing Digital
+54,4,2613,1,1,0,1,Desenvolvimento Full Stack
+39,8,1978,1,1,0,3,Design UX/UI
+19,20,2798,1,0,0,3,Desenvolvimento Full Stack
+25,4,4558,0,0,0,3,Desenvolvimento Full Stack
+31,23,3479,0,0,0,2,Desenvolvimento Full Stack
+41,24,8339,0,1,0,5,Design UX/UI
+42,18,4781,1,0,1,2,Marketing Digital
+23,4,14378,0,1,0,2,Desenvolvimento Full Stack
+43,7,2684,0,1,1,1,Marketing Digital
+46,15,7541,0,0,0,4,Desenvolvimento Full Stack
+54,10,8283,0,0,1,1,Marketing Digital
+38,9,4111,1,0,0,3,Desenvolvimento Full Stack
+26,4,3202,1,0,0,4,Data Science
+27,5,4724,0,1,1,2,Marketing Digital
+38,14,8740,0,1,1,4,Design UX/UI
+35,4,4822,0,1,0,4,Design UX/UI
+28,23,4307,0,0,1,3,Marketing Digital
+21,11,9607,0,0,0,4,Desenvolvimento Full Stack
+42,23,6317,0,1,1,3,Design UX/UI
+48,0,3812,0,0,1,2,Marketing Digital
+23,16,7164,0,0,0,2,Desenvolvimento Full Stack
+48,4,8802,0,1,0,5,Design UX/UI
+21,12,10868,0,1,1,3,Design UX/UI
+52,13,10025,1,1,1,2,Marketing Digital
+50,12,13163,0,1,1,2,Marketing Digital
+21,3,12200,1,1,1,1,Marketing Digital
+23,2,4719,0,0,1,5,Marketing Digital
+31,0,14254,1,1,1,3,Design UX/UI
+31,4,13367,0,1,0,1,Desenvolvimento Full Stack
+52,21,14244,1,1,0,2,Desenvolvimento Full Stack
+39,22,7406,0,0,0,4,Desenvolvimento Full Stack
+25,2,12869,1,0,0,1,Desenvolvimento Full Stack
+32,24,7270,1,1,0,1,Desenvolvimento Full Stack
+45,5,6040,0,0,1,3,Marketing Digital
+47,6,9640,0,0,0,1,Desenvolvimento Full Stack
+19,6,13634,1,0,0,3,Desenvolvimento Full Stack
+50,2,9308,0,1,0,5,Design UX/UI
+48,18,10759,1,1,1,5,Data Science
+21,24,9180,0,0,1,4,Marketing Digital
+34,11,1894,1,1,0,5,Data Science
+54,10,12084,0,1,1,1,Marketing Digital
+33,4,1906,0,1,0,2,Desenvolvimento Full Stack
+24,11,4712,0,0,0,3,Desenvolvimento Full Stack
+31,8,11137,0,0,0,1,Desenvolvimento Full Stack
+53,13,9878,0,1,1,4,Design UX/UI
+37,0,2318,1,0,0,1,Desenvolvimento Full Stack
+26,0,6993,1,0,0,3,Desenvolvimento Full Stack
+50,24,7149,0,0,1,3,Marketing Digital
+44,3,8466,1,1,1,5,Data Science
+36,22,5700,1,1,0,5,Data Science
+36,5,12647,0,0,1,3,Marketing Digital
+52,16,3913,0,1,1,2,Marketing Digital
+47,10,10579,1,0,0,3,Desenvolvimento Full Stack
+52,4,3392,1,0,0,1,Desenvolvimento Full Stack
+47,5,4868,1,0,1,2,Marketing Digital
+42,13,12880,0,1,1,5,Design UX/UI
+48,8,4503,1,1,1,5,Data Science
+39,12,8624,1,0,0,4,Data Science
+35,3,11685,1,1,1,3,Design UX/UI
+22,7,4463,0,0,1,4,Marketing Digital
+34,4,14287,1,1,1,4,Data Science
+18,13,3574,0,1,0,4,Design UX/UI
