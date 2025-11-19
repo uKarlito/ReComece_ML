@@ -1,0 +1,54 @@
+PROJETO RECOMECE - ENTREGA DE IA
+==================================================
+
+INTEGRANTES DO GRUPO:
+1. [INSERIR NOME COMPLETO] - RM: [INSERIR RM]
+2. [INSERIR NOME COMPLETO] - RM: [INSERIR RM]
+3. [INSERIR NOME COMPLETO] - RM: [INSERIR RM]
+4. [INSERIR NOME COMPLETO] - RM: [INSERIR RM]
+5. [INSERIR NOME COMPLETO] - RM: [INSERIR RM]
+
+TURMA: [INSERIR TURMA]
+
+==================================================
+SOBRE OS DADOS (DATASET)
+==================================================
+Nome do arquivo: dados_recomece.csv
+
+Origem: 
+Os dados foram gerados sinteticamente para simular o comportamento dos usuários na plataforma ReComece, visto que a aplicação ainda não está em produção para coletar dados reais em massa.
+
+Descrição das Colunas:
+- idade: Idade do usuário.
+- tempo_desemprego: Tempo (em meses) que o usuário está fora do mercado.
+- renda_familiar: Renda total estimada da família.
+- matematica/arte/comunicacao: Flags (0 ou 1) indicando afinidade com áreas.
+- nivel_tec: Escala de 1 a 5 do interesse em tecnologia.
+- trilha_recomendada: Rótulo (Target) usado para treinar a classificação.
+
+Objetivo dos Dados:
+Treinar modelos capazes de automatizar a orientação vocacional e a priorização social.
+
+==================================================
+MODELOS DE IA DESENVOLVIDOS
+==================================================
+
+1. Classificação (Recomendação de Trilha):
+   - Algoritmo: RandomForestClassifier.
+   - Objetivo: Receber as aptidões do usuário (ex: gosta de matemática e tem alto interesse técnico) e prever qual a melhor trilha de aprendizado (ex: Data Science).
+   - Arquivo Notebook: modelo_classificacao.ipynb
+   - Modelo Salvo: modelo_trilha.joblib
+
+2. Agrupamento (Segmentação Social):
+   - Algoritmo: K-Means.
+   - Objetivo: Identificar grupos de vulnerabilidade social com base em Renda, Idade e Tempo de Desemprego para oferecer bolsas.
+   - Arquivo Notebook: modelo_clusterizacao.ipynb
+   - Modelo Salvo: modelo_cluster.joblib
+
+==================================================
+COMO EXECUTAR
+==================================================
+1. Certifique-se de que as bibliotecas estão instaladas (pandas, flask, scikit-learn, joblib, seaborn).
+2. Os modelos pré-treinados (.joblib) já estão inclusos no ZIP.
+3. Para iniciar a API, execute no terminal: python app.py
+4. A API ficará disponível em http://127.0.0.1:5000/recomendar
