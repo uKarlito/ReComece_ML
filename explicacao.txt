@@ -12,19 +12,15 @@ SOBRE OS DADOS (DATASET)
 ==================================================
 Nome do arquivo: dados_recomece.csv
 
-Origem: 
-Os dados foram gerados sinteticamente para simular o comportamento dos usuários na plataforma ReComece, visto que a aplicação ainda não está em produção para coletar dados reais em massa.
+Justificativa para Geração de Dados Sintéticos:
+Optamos pela geração de dados sintéticos (fictícios) por três motivos principais:
 
-Descrição das Colunas:
-- idade: Idade do usuário.
-- tempo_desemprego: Tempo (em meses) que o usuário está fora do mercado.
-- renda_familiar: Renda total estimada da família.
-- matematica/arte/comunicacao: Flags (0 ou 1) indicando afinidade com áreas.
-- nivel_tec: Escala de 1 a 5 do interesse em tecnologia.
-- trilha_recomendada: Rótulo (Target) usado para treinar a classificação.
+1. "Cold Start" (Início Frio): Como o projeto ReComece é uma solução nova, ainda não possuímos uma base de usuários reais ou histórico de navegação para treinar os modelos.
 
-Objetivo dos Dados:
-Treinar modelos capazes de automatizar a orientação vocacional e a priorização social.
+2. Controle de Cenários: Gerar os dados nos permitiu criar cenários balanceados e regras específicas (ex: correlação entre gosto por matemática e Data Science) para validar se os algoritmos de IA conseguem aprender os padrões corretamente.
+
+Como os dados foram gerados:
+Utilizamos um script Python (gerar_dados.py) utilizando a biblioteca 'random' para criar 1.000 perfis simulados. Definimos regras lógicas de negócio para atribuir a 'trilha_recomendada' com base nos interesses (features), garantindo que houvesse um padrão detectável para o modelo supervisionado.
 
 ==================================================
 MODELOS DE IA DESENVOLVIDOS
